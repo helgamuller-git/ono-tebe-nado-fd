@@ -57,6 +57,7 @@
     font-size: 18px;
     line-height: 24.3px;
     max-width: 240px;
+    font-style: normal;
 }
 
 .header__contacts-underline {
@@ -108,11 +109,11 @@
 .aligned-text_right {
     display: block;
     text-align: right;
+    width: 1000px;
 }
 
 .description {
     position: absolute;
-    width: 1000px;
     height: 51px;
     display: flex;
     justify-content: space-between;
@@ -322,6 +323,7 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 24.3px;
+    font-style: normal;
 }
 
 .footer__menu {
