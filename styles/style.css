@@ -55,7 +55,7 @@
     align-items: flex-start;
     justify-self: end;
     font-size: 18px;
-    line-height: 24.3px; 
+    line-height: 24.3px;
     max-width: 240px;
 }
 
@@ -208,7 +208,6 @@
     text-underline-position: under;
     padding: 48px 40px 0 40px;
     z-index: 1;
-    
 }
 
 .card__text {
@@ -258,7 +257,7 @@
     display: grid;
     grid-template-columns: 334px auto;
     justify-items: center;
-    margin: 120px 24px 180px 24px; 
+    margin: 120px 24px 180px 24px;
 }
 
 .about__paragraph {
