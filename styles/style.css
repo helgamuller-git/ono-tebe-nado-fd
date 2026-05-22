@@ -17,7 +17,7 @@
     color: #000;
 }
 
-.header__link {
+.link__style-underline {
     text-decoration: underline;
     text-underline-position: under;
 }
@@ -32,7 +32,7 @@
    padding-left: 0;
  }
 
-.header__link_active {
+.link_active {
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@
     max-width: 240px;
 }
 
-.header__contacts-underline {
+.contacts__style-underline {
     text-decoration: underline;
     text-underline-position: under;
 }
@@ -309,11 +309,6 @@
     justify-items: flex-start;
 }
 
-.footer__menu-link {
-    text-decoration: underline;
-    text-underline-position: under;
-}
-
 .footer__links-list {
     list-style-type: none;
 }
@@ -322,15 +317,6 @@
     font-weight: 400;
     font-size: 18px;
     justify-self: center;
-}
-
-.footer__link {
-    text-decoration: underline;
-    text-underline-position: under;
-}
-
-.footer__link_active {
-    text-decoration: none;
 }
 
 .footer__social {
