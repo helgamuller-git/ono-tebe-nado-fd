@@ -132,6 +132,7 @@
     line-height: 28px;
     text-align: justify;
     width: 637px;
+    word-spacing: 18px;
 }
 
 .bet-button {
@@ -148,18 +149,6 @@
 
 .no-letter-spacing {
     margin-right: -0.3em;
-}
-
-.word-spacing-extended-auction {
-    word-spacing: 19.8px;
-}
-
-.word-spacing-extended-v {
-    word-spacing: 17.6px;
-}
-
-.word-spacing-extended-trust {
-    word-spacing: 18.7px;
 }
 
 .lots {
